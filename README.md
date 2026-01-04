@@ -1,7 +1,5 @@
 # Coding To Neural Networks using Python
-
 **Key value:** Consistency, Hardwork, Discipline, Sacrifice
-
 
 ## Working and Submitting
 - Create a jupyter notebook
